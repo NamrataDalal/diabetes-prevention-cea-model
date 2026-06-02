@@ -15,7 +15,7 @@ This project replicates and extends the cost-effectiveness analysis of the India
 - LSM+MET is dominated by LSM (higher cost, lower effectiveness)
 - MET is extendedly dominated by LSM
 - PSA with 10,000 Monte Carlo simulations confirmed LSM as optimal from WTP $300 onwards
-- EVPI analysis suggests furthr research is warranted to reduce decision uncertainty
+- EVPI analysis suggests further research is warranted to reduce decision uncertainty
 
 ## Methods
 - ICER calculation using Glick systematic method
@@ -28,7 +28,7 @@ This project replicates and extends the cost-effectiveness analysis of the India
 ## Repository Structure
 - scripts/01_model_inputs.R — Model parameters, AUC calculation, ICER tables
 - scripts/02_visualizations.R — Survival curves and CE plane
-- scripts/03_psa_analysis.R — Mote Carlo PSA, CEAC, CEAR summary table
+- scripts/03_psa_analysis.R — Monte Carlo PSA, CEAC, CEAR summary table
 - data/ — Model inputs and simulation results
 
 ## Tools and Skills Demonstrated
