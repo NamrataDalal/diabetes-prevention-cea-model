@@ -1,0 +1,5 @@
+Intervention,Total_Cost,Life_Years_Without_Diabetes,ICER
+Control,$61,2.08,Reference
+MET,$220,2.35,$588.89 (Extendedly dominated)
+LSM+MET,$270,2.36,Dominated by LSM
+LSM,$225,2.37,$565.52 — COST EFFECTIVE
